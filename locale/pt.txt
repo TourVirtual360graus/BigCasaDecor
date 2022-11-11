@@ -20,6 +20,11 @@ LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.c
 LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/bigcasadecor/
 LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/bigcasadecor/
 
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_437F5254_68B8_D54C_41D5_37A1B44C96F3.text = Av. Leoberto Leal, 31
+
 ## Media
 
 ### Audio
@@ -29,6 +34,9 @@ audiores_7F79F02B_67A8_B4C5_41D6_9D0537B91EA0.mp3Url = media/audio_71DCDD79_67A8
 audiores_7F79F02B_67A8_B4C5_41D6_9D0537B91EA0.oggUrl = media/audio_71DCDD79_67A8_AF44_41B3_03275F2AC04C_pt.ogg
 audiores_7F6B020F_67A8_B4DC_41C7_7CCAFD678988.mp3Url = media/audio_725B03C8_67BF_BB44_41C6_5F8D7874B1A6_pt.mp3
 audiores_7F6B020F_67A8_B4DC_41C7_7CCAFD678988.oggUrl = media/audio_725B03C8_67BF_BB44_41C6_5F8D7874B1A6_pt.ogg
+
+### Image
+imlevel_419A24EC_68B9_DD5C_419F_88B6EAB7B768.url = media/panorama_6C69F9C6_6768_774C_41BE_010A34E248D9_HS_syviszxz_pt.png
 
 ### Title
 panorama_75FF555C_677B_FF43_41C5_DF92CB3F8A2A.label = 1.2-DeNoiseAI-standard
@@ -101,6 +109,7 @@ IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
 ## Tour
 
 ### Description
+tour.description = Faça um Tour 360º e Conheça Nossa Loja Completa
 
 ### Title
-tour.name = Untitled 4
+tour.name = Big Casa Decor
